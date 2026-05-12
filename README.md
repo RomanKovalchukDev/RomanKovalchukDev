@@ -20,4 +20,4 @@ Senior iOS engineer based in Lviv, building production iOS and macOS apps at [Ne
 
 ### Reach out
 
-LinkedIn: TODO add link
+[LinkedIn](https://www.linkedin.com/in/roman-kovalchuk-41b758172/)
